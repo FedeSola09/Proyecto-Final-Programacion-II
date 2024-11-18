@@ -1,0 +1,163 @@
+{"pacientes": [
+    {
+        "Nombre": "Pedro",
+        "Edad": 29,
+        "Email": "pedro@hotmail.com",
+        "CantIngresos": 2,
+        "Genero": "MASCULINO",
+        "TipoDeSangre": "APOSITIVO",
+        "Apellido": "Fernandez",
+        "AltaBaja": false,
+        "Enfermedades": [
+            "Hipertensión",
+            "Asma"
+        ],
+        "HistoriaClinica": {
+            "1": "Ingreso por emergencia por asma",
+            "2": "Chequeo de hipertensión"
+        },
+        "Dni": "42322741"
+    },
+    {
+        "Nombre": "Maria",
+        "Edad": 30,
+        "Email": "maria.lopez@gmail.com",
+        "CantIngresos": 0,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "BNEGATIVO",
+        "Apellido": "Lopez",
+        "AltaBaja": false,
+        "Enfermedades": ["Diabetes"],
+        "HistoriaClinica": {"1": "Diagnóstico de diabetes tipo 2"},
+        "Dni": "34217685"
+    },
+    {
+        "Nombre": "Carlos",
+        "Edad": 40,
+        "Email": "carlos.garcia@yahoo.com",
+        "CantIngresos": 2,
+        "Genero": "MASCULINO",
+        "TipoDeSangre": "ONEGATIVO",
+        "Apellido": "Garcia",
+        "AltaBaja": true,
+        "Enfermedades": [
+            "Cáncer",
+            "Hipotiroidismo"
+        ],
+        "HistoriaClinica": {
+            "1": "Tratamiento para cáncer de próstata",
+            "2": "Control de hipotiroidismo"
+        },
+        "Dni": "12345678"
+    },
+    {
+        "Nombre": "Laura",
+        "Edad": 26,
+        "Email": "laura.martinez@hotmail.com",
+        "CantIngresos": 1,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "ABPOSITIVO",
+        "Apellido": "Martínez",
+        "AltaBaja": true,
+        "Enfermedades": ["Migrañas"],
+        "HistoriaClinica": {"1": "Tratamiento preventivo de migrañas"},
+        "Dni": "55667788"
+    },
+    {
+        "Nombre": "Juan",
+        "Edad": 35,
+        "Email": "juan.rodriguez@outlook.com",
+        "CantIngresos": 1,
+        "Genero": "MASCULINO",
+        "TipoDeSangre": "APOSITIVO",
+        "Apellido": "Rodríguez",
+        "AltaBaja": true,
+        "Enfermedades": ["Colesterol alto"],
+        "HistoriaClinica": {"1": "Control de colesterol elevado"},
+        "Dni": "87654321"
+    },
+    {
+        "Nombre": "Ana",
+        "Edad": 50,
+        "Email": "ana.gonzalez@live.com",
+        "CantIngresos": 1,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "BPOSITIVO",
+        "Apellido": "Gonzalez",
+        "AltaBaja": true,
+        "Enfermedades": ["Artritis"],
+        "HistoriaClinica": {"1": "Diagnóstico de artritis reumatoide"},
+        "Dni": "56783921"
+    },
+    {
+        "Nombre": "Luis",
+        "Edad": 60,
+        "Email": "luis.perez@gmail.com",
+        "CantIngresos": 1,
+        "Genero": "MASCULINO",
+        "TipoDeSangre": "OPOSITIVO",
+        "Apellido": "Perez",
+        "AltaBaja": true,
+        "Enfermedades": ["Enfermedad pulmonar obstructiva crónica"],
+        "HistoriaClinica": {"1": "Tratamiento de EPOC"},
+        "Dni": "34478890"
+    },
+    {
+        "Nombre": "Sofia",
+        "Edad": 20,
+        "Email": "sofia.hernandez@aol.com",
+        "CantIngresos": 1,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "ABNEGATIVO",
+        "Apellido": "Hernández",
+        "AltaBaja": true,
+        "Enfermedades": ["Alergia a los ácaros"],
+        "HistoriaClinica": {"1": "Tratamiento con antihistamínicos"},
+        "Dni": "56784321"
+    },
+    {
+        "Nombre": "Roberto",
+        "Edad": 45,
+        "Email": "roberto.vega@aol.com",
+        "CantIngresos": 0,
+        "Genero": "MASCULINO",
+        "TipoDeSangre": "ONEGATIVO",
+        "Apellido": "Vega",
+        "AltaBaja": false,
+        "Enfermedades": ["Gastritis"],
+        "HistoriaClinica": {"1": "Tratamiento para gastritis crónica"},
+        "Dni": "11223344"
+    },
+    {
+        "Nombre": "Isabel",
+        "Edad": 55,
+        "Email": "isabel.sanchez@icloud.com",
+        "CantIngresos": 0,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "BPOSITIVO",
+        "Apellido": "Sánchez",
+        "AltaBaja": false,
+        "Enfermedades": [
+            "Hipertensión",
+            "Osteoporosis"
+        ],
+        "HistoriaClinica": {
+            "1": "Tratamiento para hipertensión",
+            "2": "Diagnóstico de osteoporosis"
+        },
+        "Dni": "99887766"
+    },
+    {
+        "Nombre": "Luana",
+        "Edad": 20,
+        "Email": "luanamena@gmail.com",
+        "CantIngresos": 0,
+        "Genero": "FEMENINO",
+        "TipoDeSangre": "APOSITIVO",
+        "Apellido": "Mena",
+        "AltaBaja": false,
+        "Enfermedades": [],
+        "HistoriaClinica": {},
+        "Dni": "46012968"
+    }
+]}

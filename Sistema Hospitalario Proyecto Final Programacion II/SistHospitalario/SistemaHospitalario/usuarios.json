@@ -1,0 +1,113 @@
+[
+  {
+    "matricula": "U001",
+    "password": "password123",
+    "rol": {
+      "tipoDeEmpleado": "MEDICO",
+      "salario": 55000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U002",
+    "password": "password234",
+    "rol": {
+      "tipoDeEmpleado": "ENFERMERA",
+      "salario": 32000
+    },
+    "especialidad": {
+      "nombre": "UROLOGIA"
+    }
+  },
+  {
+    "matricula": "U003",
+    "password": "password345",
+    "rol": {
+      "tipoDeEmpleado": "TECNICO",
+      "salario": 38000
+    },
+    "especialidad": {
+      "nombre": "NEUROLOGIA"
+    }
+  },
+  {
+    "matricula": "U004",
+    "password": "password456",
+    "rol": {
+      "tipoDeEmpleado": "ADMINISTRATIVO",
+      "salario": 30000
+    },
+    "especialidad": {
+      "nombre": "TRAUMATOLOGIA"
+    }
+  },
+  {
+    "matricula": "U005",
+    "password": "password567",
+    "rol": {
+      "tipoDeEmpleado": "MANTENIMIENTO",
+      "salario": 28000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U006",
+    "password": "password678",
+    "rol": {
+      "tipoDeEmpleado": "LIMPIEZA",
+      "salario": 25000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U007",
+    "password": "password789",
+    "rol": {
+      "tipoDeEmpleado": "MEDICO",
+      "salario": 60000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U008",
+    "password": "password890",
+    "rol": {
+      "tipoDeEmpleado": "ENFERMERA",
+      "salario": 33000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U009",
+    "password": "password901",
+    "rol": {
+      "tipoDeEmpleado": "TECNICO",
+      "salario": 40000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  },
+  {
+    "matricula": "U010",
+    "password": "password012",
+    "rol": {
+      "tipoDeEmpleado": "ADMINISTRATIVO",
+      "salario": 31000
+    },
+    "especialidad": {
+      "nombre": "CLINICO"
+    }
+  }
+]
+
